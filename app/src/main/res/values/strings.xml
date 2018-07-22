@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WordExplora</string>
+    <string name="search">Search</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="error_loading_page">Oops! Error while loading page</string>
+    <string name="website">Website</string>
+    <string name="welcome_text">Welcome to WordExplora. \nClick on search icon to explore</string>
+    <string name="check_internet_connection">Please check your network connections</string>
+</resources>
